@@ -1,0 +1,22 @@
+{
+  "name": "arbor-investor-deck",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export:pdf": "slidev export --format pdf --with-clicks",
+    "export:pptx": "slidev export --format pptx",
+    "export:png": "slidev export --format png",
+    "preview": "slidev --open dist"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "^1.40.0"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "lucide-vue-next": "^0.300.0"
+  }
+}
