@@ -628,16 +628,16 @@ layout: default
       <div class="text-sm font-bold text-[#F3F3F2] mt-1">Clean & Founder-Aligned Ownership</div>
       <div class="space-y-3 mt-3 text-xs">
         <div>
-          <div class="flex justify-between font-bold text-[#F3F3F2]"><span>Founders & Core Team</span><span class="text-[#DAE98A]">80%</span></div>
+          <div class="flex justify-between font-bold text-[#F3F3F2]"><span>Founders &amp; Core Team</span><span class="text-[#DAE98A]">80%</span></div>
           <div class="w-full bg-[#161D1C] h-2 rounded mt-1"><div class="bg-[#DAE98A] h-2 rounded" style="width: 80%"></div></div>
         </div>
         <div>
-          <div class="flex justify-between font-bold text-[#F3F3F2]"><span>Techstars Turin '24 & Angels</span><span class="text-[#F05002]">12%</span></div>
+          <div class="flex justify-between font-bold text-[#F3F3F2]"><span>Techstars Torino '25 &amp; Angels</span><span class="text-[#F05002]">12%</span></div>
           <div class="w-full bg-[#161D1C] h-2 rounded mt-1"><div class="bg-[#F05002] h-2 rounded" style="width: 12%"></div></div>
         </div>
         <div>
-          <div class="flex justify-between font-bold text-[#F3F3F2]"><span>Techstars Turin '25 &amp; Angels</span><span>12%</span></div>
-          <div class="w-full bg-[#161D1C] h-2 rounded mt-1"><div class="bg-[#0B5149] h-2 rounded" style="width: 12%"></div></div>
+          <div class="flex justify-between font-bold text-[#F3F3F2]"><span>Unallocated ESOP Pool</span><span class="text-[#F3F3F2]/60">8%</span></div>
+          <div class="w-full bg-[#161D1C] h-2 rounded mt-1"><div class="bg-[#0B5149] h-2 rounded" style="width: 8%"></div></div>
         </div>
       </div>
     </div>
@@ -649,10 +649,10 @@ layout: default
 
 <div class="mt-4 p-3 bg-[#0B5149]/40 rounded-lg border border-[#DAE98A]/40 text-left flex items-center justify-between text-xs">
   <div>
-    <span class="font-bold text-[#DAE98A] uppercase tracking-wider mr-2">Institutional Investor Guarantee:</span>
-    <span class="text-[#F3F3F2]">Single Delaware C-Corp parent, 100% consolidated IP, zero debt liabilities, and founder-controlled board.</span>
+    <span class="font-bold text-[#DAE98A] uppercase tracking-wider mr-2">Strategic M&amp;A Exit Pathways:</span>
+    <span class="text-[#F3F3F2]">Standalone $100M+ ARR scale <i>OR</i> high-multiple acquisition by <b>Drone OEMs</b> (DJI/Skydio), <b>Earth Observation</b> (Planet Labs/ESRI), or <b>AgTech Leaders</b> (John Deere/Trimble).</span>
   </div>
-  <span class="px-2 py-0.5 rounded bg-[#F05002] text-white text-[10px] font-bold uppercase whitespace-nowrap">Delaware C-Corp</span>
+  <span class="px-2 py-0.5 rounded bg-[#F05002] text-white text-[10px] font-bold uppercase whitespace-nowrap">Strategic M&amp;A</span>
 </div>
 
 ---
