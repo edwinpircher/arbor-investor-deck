@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap');
+
+:root {
+  /* Official Arbor Insight Brand Palette */
+  --arbor-light-green: #DAE98A;
+  --arbor-dark-green: #0B5149;
+  --arbor-orange: #F05002;
+  --arbor-white: #F3F3F2;
+  --arbor-aztec: #161D1C;
+
+  /* Typography */
+  --font-arbor: 'Telegraf', 'Space Grotesk', system-ui, -apple-system, sans-serif;
+}
+
+body, .slidev-layout {
+  font-family: var(--font-arbor) !important;
+  background-color: var(--arbor-aztec) !important;
+  color: var(--arbor-white) !important;
+}
+
+/* Custom Brand Utilities */
+.text-arbor-light { color: #DAE98A !important; }
+.text-arbor-dark { color: #0B5149 !important; }
+.text-arbor-orange { color: #F05002 !important; }
+.text-arbor-white { color: #F3F3F2 !important; }
+
+.bg-arbor-aztec { background-color: #161D1C !important; }
+.bg-arbor-dark { background-color: #0B5149 !important; }
+.bg-arbor-light { background-color: #DAE98A !important; }
+.bg-arbor-orange { background-color: #F05002 !important; }
+
+.border-arbor-light { border-color: rgba(218, 233, 138, 0.3) !important; }
+.border-arbor-dark { border-color: rgba(11, 81, 73, 0.6) !important; }
+.border-arbor-orange { border-color: rgba(240, 80, 2, 0.5) !important; }

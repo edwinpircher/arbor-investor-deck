@@ -36,7 +36,7 @@ npm run export:png
 
 ## Slide Deck Architecture & Grounded Data
 The deck structure is defined in `slides.md` and strictly grounded in Arbor Insight's canonical metrics:
-- Techstars Turin 2024 graduate & €300k non-dilutive grant
+- Techstars Turin 2024 graduate & $150k non-dilutive grant
 - 1,200 ha Spain pistachio pilot, 275 ha Loacker hazelnut estates, 14,000-tree Ohio chestnut inventory
 - $15/ha/yr ($6/acre) SaaS pricing model + Enterprise Co-Op dashboards ($10k-$20k/yr)
 - Sub-10cm thermal CWSI & 1cm RGB resolution with 24-hour turnaround
