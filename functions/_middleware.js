@@ -4,6 +4,9 @@ const VALID_PASSPHRASES = [
   "I wanna invest!",
   "iwannainvest!",
   "I wanna invest",
+  "take my money!",
+  "takemymoney!",
+  "take my money",
   "investnow!",
   "shut up and take my money!"
 ];
