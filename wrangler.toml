@@ -1,5 +1,4 @@
 name = "arbor-investor-deck"
 pages_build_output_dir = "dist"
-
-[vars]
-NODE_VERSION = "22.23.1"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
