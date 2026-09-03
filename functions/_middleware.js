@@ -8,7 +8,16 @@ const VALID_PASSPHRASES = [
   "takemymoney!",
   "take my money",
   "investnow!",
-  "shut up and take my money!"
+  "shut up and take my money!",
+  "watch trees grow",
+  "watch-trees-grow",
+  "Money actually grows on trees",
+  "money actually grows on trees",
+  "money-grows-on-trees",
+  "trees pay dividends",
+  "trees-pay-dividends",
+  "canopy is capital",
+  "canopy-is-capital"
 ];
 
 const AUTH_COOKIE_NAME = "arbor_invest_auth";
