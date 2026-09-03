@@ -4,11 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
-    "dev:esg": "slidev slides-esg.md --open",
     "build": "slidev build",
-    "build:esg": "slidev build slides-esg.md",
     "export:pdf": "slidev export --format pdf --with-clicks",
-    "export:pdf:esg": "slidev export slides-esg.md --format pdf --with-clicks",
     "export:pptx": "slidev export --format pptx",
     "export:png": "slidev export --format png",
     "preview": "slidev --open dist"
